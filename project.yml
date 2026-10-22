@@ -1,4 +1,18 @@
 type: telegram-sticker-pack
-publish_on:
+slug: stickers-anime-emotions
+listed_on:
   - https://tertiumnon.github.io
 icon: stickers/akanbe.png
+display_name:
+  en: "Anime Emotions"
+summary:
+  en: "Universal anime emotion stickers without any text, so they work in any language."
+languages:
+  - en
+default_language: en
+team:
+  - name: Vitalii Balabanov
+    roles:
+      - owner
+      - developer
+    github: Tertiumnon
